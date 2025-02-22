@@ -88,7 +88,7 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 Juan Varas | Correo electronico: juanmanuelvarascastillo@protonmai.com
 
-Link del proyecto: [https://github.com/tu-usuario/sistema-gestion-maquinas](https://github.com/tu-usuario/sistema-gestion-maquinas)
+Link del proyecto: (https://github.com/JVaras3030/Sistema-de-inventario.git)
 
 
 
