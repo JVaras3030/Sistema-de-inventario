@@ -90,9 +90,18 @@ Juan Varas | Correo electronico: juanmanuelvarascastillo@protonmai.com
 
 Link del proyecto: (https://github.com/JVaras3030/Sistema-de-inventario.git)
 
+![image](https://github.com/user-attachments/assets/5de396ca-ee8b-4f5a-9430-fbe10db63a4f)
 
 
 
+
+![image](https://github.com/user-attachments/assets/364c20a7-307e-4410-8ecd-72ea06c56806)
+
+![image](https://github.com/user-attachments/assets/db16223d-4344-4b5e-8418-f719f917cdf7)
+
+![image](https://github.com/user-attachments/assets/50242a18-82eb-4290-8bcb-b2dbabfb18d7)
+
+![image](https://github.com/user-attachments/assets/81559a8b-3ab1-4fd8-991d-eb60bc3613ab)
 
 
 
