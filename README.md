@@ -1,5 +1,3 @@
-# Sistema-de-inventario
-
 # Sistema de Gestión de Máquinas y Equipos 🏭
 > Sistema de gestión integral para control de inventario, préstamos y seguimiento de equipos.
 
@@ -88,7 +86,7 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 ## 📧 Contacto
 
-Tu Nombre - Juan Varas | Correo electronico: juanmanuelvarascastillo@protonmai.com
+Juan Varas | Correo electronico: juanmanuelvarascastillo@protonmai.com
 
 Link del proyecto: [https://github.com/tu-usuario/sistema-gestion-maquinas](https://github.com/tu-usuario/sistema-gestion-maquinas)
 
