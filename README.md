@@ -27,7 +27,7 @@ bcrypt>=3.2.0
 openpyxl>=3.0.7
 xlsxwriter>=3.0.2
 Pillow>=8.3.1
-
+ ("pip install -r requirements.txt")
 ## 🔑 Credenciales Iniciales
 
 - **Usuario**: admin
